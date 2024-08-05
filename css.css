@@ -1,30 +1,19 @@
 button{
-    color: whitesmoke;
+    color: blanchedalmond;
     padding: 30px;
-    background-color: blueviolet;
-    border-radius: 20%;
-    border-color: mediumpurple;
+    background-color: rgb(203, 85, 85);
+    border-radius: 30%;
+    border-color: blanchedalmond;
     font-weight: bolder;
     margin-left: 30px;
     margin-top: 30px;
     cursor: pointer;
 }
 
-.app{
-    height: 100px;
-    width: 200px;
-    background-color: green;
-}
-
-.class1{
-    color: brown;
-}
-
-.class2{
-    background-color: antiquewhite;
-}
-
-.class3{
-    height: 200px;
-    width: 150px;
+.res{
+    height: 80px;
+    width: 140px;
+    background-color: rosybrown;
+    margin-left: 30px;
+    margin-top: 30px;
 }
